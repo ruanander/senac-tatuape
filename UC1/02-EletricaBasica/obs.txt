@@ -12,4 +12,3 @@ Padrão tradicional de cores:
 🟠 Laranja → +3.3V
 
 ⚫ Preto → Terra (GND)
-
