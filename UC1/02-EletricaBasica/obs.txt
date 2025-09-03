@@ -1,12 +1,20 @@
-**Fontes** os cabos das fontes de desempenho atualmente são pretas ou brancas 
+🔌 Fontes de Alimentação – Fios e Padrões
 
-fios:
+Nas fontes de alimentação de PCs (PSUs), os cabos seguem padrões de cores tradicionais, mas nas fontes de alto desempenho atuais (principalmente as modulares), os cabos costumam vir todos pretos ou, em alguns modelos especiais, brancos — para dar um visual mais limpo e moderno ao setup.
 
-vermelho: 5v
+📍 Padrão tradicional de cores nos fios:
 
-Amarelo: 12v
+🔴 Vermelho → +5V
 
-Laranja: 3.3v
+🟡 Amarelo → +12V
 
-obs:fontes de auto desempenho atuais geralmente todos os cabos são preto ou brancos
+🟠 Laranja → +3.3V
+
+⚫ Preto → Terra (GND)
+
+🖤 ⚪ Nas fontes modernas de alto desempenho:
+
+Todos os fios geralmente são pretos (mais comum) ou brancos (em edições especiais).
+
+Essa padronização facilita o design, mas internamente os valores de tensão continuam os mesmos.
 
