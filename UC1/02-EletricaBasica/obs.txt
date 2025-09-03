@@ -17,4 +17,3 @@ Nas fontes de alimentação de PCs (PSUs), os cabos seguem padrões de cores tra
 Todos os fios geralmente são pretos (mais comum) ou brancos (em edições especiais).
 
 Essa padronização facilita o design, mas internamente os valores de tensão continuam os mesmos.
-
