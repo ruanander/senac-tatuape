@@ -1,0 +1,9 @@
+**Fontes** os cabos das fontes de desempenho atualmente são pretas ou brancas 
+
+vermelho: 5v
+
+Amarelo: 12v
+
+Laranja: 3.3v
+
+obs:fontes de auto desempenho atuais geralmente todos os cabos são preto ou brancos
