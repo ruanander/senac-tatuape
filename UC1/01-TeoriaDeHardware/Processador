@@ -1,0 +1,29 @@
+# ⚙️ Processadores  
+
+## 🔢 Frequência (GHz)  
+- **GHz** = frequência do processador (velocidade de operação).  
+- Quanto maior, mais instruções por segundo ele pode executar.  
+
+## 🧩 Núcleos e Threads  
+- **Cores (núcleos físicos):** cada núcleo executa tarefas de forma independente.  
+- **Threads (núcleos lógicos):** dividem cada núcleo em processos lógicos, melhorando o desempenho em multitarefas.  
+- Em geral: **mais núcleos e threads = melhor desempenho**.  
+
+### Exemplo:  
+- `2 núcleos / 2 threads` < `2 núcleos / 4 threads`  
+
+## 🖥️ Linhas de Processadores  
+
+### AMD Ryzen  
+- **Soquete AM4:** Ryzen série **1000 a 5000**  
+- **Soquete AM5:** Ryzen série **7000 a 9000**  
+
+### Intel  
+- **LGA 1200:** 10ª e 11ª geração  
+- **LGA 1700:** 12ª, 13ª e 14ª geração  
+- **LGA 1851:** Ultra série **200**  
+
+## 🗂️ Caches  
+- O **cache** funciona como memória ultrarrápida dentro do processador.  
+- Ele reduz a **latência** e melhora o desempenho.  
+- Para calcular o total de cache: **L2 + L3**.
