@@ -1,4 +1,4 @@
-# ⚙️ Processadores  
+# ⚙️ Processadores
 
 ## 🔢 Frequência (GHz)  
 - **GHz** = frequência do processador (velocidade de operação).  
@@ -27,3 +27,16 @@
 - O **cache** funciona como memória ultrarrápida dentro do processador.  
 - Ele reduz a **latência** e melhora o desempenho.  
 - Para calcular o total de cache: **L2 + L3**.
+- **Cache L1:** dentro de cada núcleo (mais rápido, mas menor).  
+- **Cache L2:** exclusivo para cada núcleo (maior que L1).  
+- **Cache L3:** compartilhado entre todos os núcleos (maior, porém mais lento).  
+
+> Total de cache = **L2 + L3**  
+
+## ⚡ TDP  
+- **TDP (Thermal Design Power):** quantidade de **energia (Watts)** que o processador consome e que o sistema deve dissipar.  
+- Exemplo: **TDP 120W** → exige resfriamento adequado.  
+
+## 🔬 Transistores  
+- Quanto **menor o transistor**, menor a geração de calor.  
+- Processadores com transistores menores são **mais rápidos, mais eficientes e com maior desempenho**.  
