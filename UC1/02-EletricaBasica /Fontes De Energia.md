@@ -3,8 +3,9 @@
 Nas fontes de PC mais antigas, os fios tinham cores diferentes para cada tensão.  
 Nas **fontes modernas de alto desempenho**, os cabos costumam ser **todos pretos** ou **brancos**, deixando o visual mais limpo.  
 
-### Padrão tradicional de cores:  
+## Padrão tradicional de cores:  
 - 🔴 **Vermelho** → +5V  
 - 🟡 **Amarelo** → +12V  
 - 🟠 **Laranja** → +3.3V  
 - ⚫ **Preto** → Terra (GND)  
+
