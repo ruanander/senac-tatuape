@@ -1,4 +1,4 @@
-# ⚙️ Processadores
+## ⚙️ Processadores
 
 ## 🔢 Frequência (GHz)  
 - **GHz** = frequência do processador (velocidade de operação).  
