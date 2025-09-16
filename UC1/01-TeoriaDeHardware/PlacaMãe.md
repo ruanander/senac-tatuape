@@ -41,6 +41,5 @@
 - **JAUD** → Áudio frontal do gabinete  
 - **Bateria** → Modelo padrão **CR2032**  
 
-///////
-
+/-----------------------/
 
