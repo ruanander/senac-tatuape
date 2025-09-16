@@ -41,13 +41,6 @@
 - **JAUD** → Áudio frontal do gabinete  
 - **Bateria** → Modelo padrão **CR2032**  
 
----
+///////
 
-## 🧩 Exemplos de Placas-Mãe  
-
-### B650M  
-<img width="2400" height="2400" alt="b650m-aula-desenhado-do-LELE" src="https://github.com/user-attachments/assets/298d0865-614d-4df6-ab73-c66af69df63d" />  
-
-### A620M  
-![Placa-Mãe MSI Pro A620M-E-Aula](https://github.com/user-attachments/assets/0ddd5693-3a25-428d-a11c-038c61a55a98)  
 
