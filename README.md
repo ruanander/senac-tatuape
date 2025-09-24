@@ -1,3 +1,8 @@
+![GitHub License](https://img.shields.io/github/license/ruanander/senac-tatuape?style=flat-square)
+
+## Autor
+Ruan Anderson 
+
 # 📘 Curso Técnico em Informática - SENAC Tatuapé  
 
 Este repositório reúne todo o conteúdo de estudo, atividades, exercícios e projetos desenvolvidos durante minha formação no **Curso Técnico em Informática do SENAC Tatuapé**.  
