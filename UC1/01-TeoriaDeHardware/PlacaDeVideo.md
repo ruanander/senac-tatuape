@@ -22,4 +22,18 @@ Além disso, existem variações de **4x, 8x e 16x**, que indicam quantas linhas
 ---
 
 ### 📺 Observação Importante
-- Uma placa de vídeo potente perde qualidade se for usada com um **monitor de baixa qualidade** (baixa taxa de atualização ou resolução).  
+- Uma placa de vídeo potente perde qualidade se for usada com um **monitor de baixa qualidade** (baixa taxa de atualização ou resolução).
+
+  ### ⚙️ Tecnologias de Vídeo e Otimização
+
+- **DLSS (NVIDIA), FSR (AMD), XESS (Intel):**  
+  Técnicas de upscaling que aumentam a taxa de quadros (FPS) renderizando o jogo em resolução menor e ampliando por IA.  
+
+- **Frame Generation:**  
+  Cria **quadros extras com IA**, aumentando o FPS aparente.  
+  - 🚨 Porém, **aumenta a latência** (resposta dos comandos).  
+  - Recomendado usar apenas se o **FPS base já for ≥ 60**.  
+
+- **Tearing:**  
+  “Rasgo” na imagem causado pela falta de sincronização entre a placa de vídeo e o monitor.  
+  - Soluções: ativar **V-Sync**, **FreeSync** (AMD) ou **G-Sync** (NVIDIA).  
