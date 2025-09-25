@@ -23,7 +23,7 @@ Além disso, existem variações de **4x, 8x e 16x**, que indicam quantas linhas
 
 ### 📺 Observação Importante
 - Uma placa de vídeo potente perde qualidade se for usada com um **monitor de baixa qualidade** (baixa taxa de atualização ou resolução).
-
+---
   ### ⚙️ Tecnologias de Vídeo e Otimização
 
 - **DLSS (NVIDIA), FSR (AMD), XESS (Intel):**  
